@@ -1,0 +1,2 @@
+La carpeta archivos no aparecio como un cambio, ya que las carpetas vacías no
+se consideran como cambios o adiciones de nuevos archivos al proyecto.
