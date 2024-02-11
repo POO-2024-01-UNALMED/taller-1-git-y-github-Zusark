@@ -1,0 +1,2 @@
+la carpeta no aparecia debido ya que  ya que las carpetas vacias no
+se consideran como cambios o adiciones de nuevos archivos al proyecto, asi que hasta que la carpeta obtuvo el nuevo archivo respuesta.txt, github consideraba que no habia cambio que subir
