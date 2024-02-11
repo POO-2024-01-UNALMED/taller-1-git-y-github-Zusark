@@ -1,1 +1,4 @@
 Soy Sebastian Cepeda Jaimes, 17 años, y espero conseguir conocimientos sobre las clases y sus utilidades para poder avanzar de forma correcta con mi carrera
+la carpeta no aparecia debido ya que  ya que las carpetas vacias no
+se consideran como cambios o adiciones de nuevos archivos al proyecto, asi que hasta que la carpeta obtuvo el nuevo archivo respuesta.txt, github consideraba que no habia cambio que subir
+hay que tener cuidado con modificar los mismos archivos al mismo tiempo, porque se puede generar un conflicto en las lineas de codigo, quedando las lineas de ambos archivos una sobre la otra
